@@ -3,7 +3,7 @@
  
  BFCN.csl Bourgogne Franche-Comté Nature
 
-| Command | Description |
+| File | Style full name |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| BFCN.csl | Bourgogne Franche-Comté Nature |
+
