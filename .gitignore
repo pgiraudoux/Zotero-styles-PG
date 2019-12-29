@@ -1,5 +1,26 @@
 # Eliminate Zotero files official
 
-*.csl
+hidden/
 
-
+agriculture-ecosystems-and-environment.csl
+biological-conservation.csl
+cell.csl
+chicago-author-date.csl
+chicago-fullnote-bibliography.csl
+chicago-note-bibliography.csl
+ecological-indicators.csl
+elsevier-harvard.csl
+hochschule-osnabruck-fakultat-agrarwissenschaften-und-landschaftsarchitektur.csl
+ieee.csl
+international-journal-for-parasitology.csl
+journal-of-applied-ecology.csl
+landscape-ecology.csl
+nature.csl
+parasites-and-vectors.csl
+parasitology.csl
+plos-neglected-tropical-diseases.csl
+plos-one.csl
+remove.txt
+scientific-reports.csl
+vancouver.csl
+veterinary-parasitology.csl
