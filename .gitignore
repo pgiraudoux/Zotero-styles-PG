@@ -1,36 +1,29 @@
-# History files
-.Rhistory
-.Rapp.history
+# Zotero files official
 
-# Session Data files
-.RData
+agriculture-ecosystems-and-environment.csl
+biological-conservation.csl
+cell.csl
+chicago-author-date.csl
+chicago-fullnote-bibliography.csl
+chicago-note-bibliography.csl
+ecological-indicators.csl
+elsevier-harvard.csl
+files
+hidden
+hochschule-osnabruck-fakultat-agrarwissenschaften-und-landschaftsarchitektur.csl
+ieee.csl
+international-journal-for-parasitology.csl
+journal-of-applied-ecology.csl
+landscape-ecology.csl
+nature.csl
+parasites-and-vectors.csl
+parasitology.csl
+plos-neglected-tropical-diseases.csl
+plos-one.csl
+scientific-reports.csl
+vancouver.csl
+veterinary-parasitology.csl
 
-# User-specific files
-.Ruserdata
+# Folders
 
-# Example code in package build process
-*-Ex.R
-
-# Output files from R CMD build
-/*.tar.gz
-
-# Output files from R CMD check
-/*.Rcheck/
-
-# RStudio files
-.Rproj.user/
-
-# produced vignettes
-vignettes/*.html
-vignettes/*.pdf
-
-# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
-.httr-oauth
-
-# knitr and R markdown default cache directories
-*_cache/
-/cache/
-
-# Temporary files created by R markdown
-*.utf8.md
-*.knit.md
+hidden/
