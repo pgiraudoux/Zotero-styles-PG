@@ -3,5 +3,5 @@
 
 | File | Style full name |
 | --- | --- |
-| BFCN.csl | Bourgogne Franche-Comté Nature |
+| bfcn.csl | Bourgogne Franche-Comté Nature |
 
