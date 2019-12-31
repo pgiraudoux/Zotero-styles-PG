@@ -3,10 +3,10 @@
   <info>
     <title>Bourgogne Franche-Comté Nature</title>
 	<title-short>BFCN</title-short>
+    <issn>2112-3527</issn>
     <!-- <id>http://www.zotero.org/styles/BFCN.csl</id> -->
-	 <id>https://github.com/pgiraudoux/Zotero-styles-PG/blob/master/BFCN.csl</id>
+	<id>https://github.com/pgiraudoux/Zotero-styles-PG/blob/master/BFCN.csl</id>
 	<link href="https://github.com/pgiraudoux/Zotero-styles-PG/blob/master/BFCN.csl" rel="self"/>
-
     <author>
       <name>Patrick Giraudoux</name>
       <email>patrick.giraudoux@univ-fcomte.fr</email>
@@ -14,7 +14,8 @@
     <category citation-format="author-date"/>
     <category field="biology"/>
     <category field="generic-base"/>
-    <updated>2019-12-29T15:57:12+00:00</updated>
+	<summary>The author-date style for Bourgogne Franche-Comté  Nature, initially derived from elsevier-Harvard.csl</summary>
+    <updated>2019-12-30T10:52:12+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <macro name="container">
