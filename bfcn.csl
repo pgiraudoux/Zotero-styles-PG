@@ -16,9 +16,10 @@
     </author>
     <category citation-format="author-date"/>
     <category field="biology"/>
-    <category field="generic-base"/>
+	<category field="zoology"/>
+	<category field="geography"/>
 	<summary>The author-date style for Bourgogne Franche-Comté  Nature, initially derived from elsevier-Harvard.csl</summary>
-    <updated>2019-12-31T15:12:12+00:00</updated>
+    <updated>2020-01-01T10:28:12+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <macro name="container">
