@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" default-locale="fr-FR">
   <info>
-    <title>Bourgogne Franche-Comté Nature</title>
+    <title>Bourgogne Franche-Comté Nature (French)</title>
 	<title-short>BFCN</title-short>
     <issn>2648-692X</issn>
-    <!-- <id>http://www.zotero.org/styles/bfcn</id> -->
-	<!-- <link href="http://www.zotero.org/styles/bfcn" rel="self"/> -->
+    <!-- <id>http://www.zotero.org/styles/bourgogne-franche-comte-nature</id> -->
+	<!-- <link href="http://www.zotero.org/styles/bourgogne-franche-comte-nature" rel="self"/> -->
 	<!-- <link href="http://www.zotero.org/styles/elsevier-harvard" rel="template"/> -->
 	<!-- <link href="http://www.bourgogne-nature.fr/fr/nos-revues-scientifiques/les-classiques_23_ER1.html" rel="documentation"/> -->
-	<id>https://github.com/pgiraudoux/Zotero-styles-PG/blob/master/bfcn.csl</id>
-	<link href="https://github.com/pgiraudoux/Zotero-styles-PG/blob/master/bfcn.csl" rel="self"/>
+	<id>http://github.com/pgiraudoux/Zotero-styles-PG/blob/master/bourgogne-franche-comte-nature</id>
+	<link href="https://github.com/pgiraudoux/Zotero-styles-PG/blob/master/bourgogne-franche-comte-nature" rel="self"/>
     <author>
       <name>Patrick Giraudoux</name>
       <email>patrick.giraudoux@univ-fcomte.fr</email>
@@ -19,7 +19,7 @@
 	<category field="zoology"/>
 	<category field="geography"/>
 	<summary>The author-date style for Bourgogne Franche-Comté  Nature, initially derived from elsevier-Harvard.csl</summary>
-    <updated>2020-01-01T10:28:12+00:00</updated>
+    <updated>2020-01-03T09:04:12+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <macro name="container">
