@@ -27,7 +27,9 @@
       <if type="chapter paper-conference" match="any">
         <text term="in" prefix=", " suffix=": "/>
         <names variable="editor translator" delimiter=", " suffix=", ">
-          <name name-as-sort-order="all" sort-separator=", " initialize-with="." delimiter=", " delimiter-precedes-last="always"/>
+        <name name-as-sort-order="all" sort-separator=", " initialize-with="." delimiter=", " delimiter-precedes-last="always">
+	<name-part name="family" text-case="uppercase"/>
+	</name>
           <label form="short" text-case="capitalize-first" prefix=" (" suffix=")"/>
         </names>
         <group delimiter=", ">
@@ -65,7 +67,7 @@
   <macro name="author-short" >
     <names variable="author">
       	<name form="short" and="symbol" delimiter=", " initialize-with=". ">
-		<name-part name="family" text-case="uppercase"/>
+	<name-part name="family" text-case="uppercase"/>
 	</name>
 	<et-al font-style="italic"/>
       <substitute>
