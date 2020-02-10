@@ -1,5 +1,6 @@
 https://github.com/citation-style-language/styles/pull/4481
 
+https://github.com/citation-style-language/styles/pull/4555
 
 Extracteur de références
 https://rintze.zelle.me/ref-extractor/
