@@ -100,7 +100,7 @@
     <choose>
       <if variable="URL">
         <group prefix="[" suffix="]" delimiter=" ">
-          <text term="cited" >consulté le< text-case="lowercase"/>
+          <text term="cited" text-case="lowercase"/>
           <date variable="accessed" form="text"/>
         </group>
       </if>
@@ -198,9 +198,8 @@
     <choose>
       <if type="article-journal article-magazine article-newspaper review review-book" match="any">
         <group suffix=" ; " delimiter=" ">
-          <date variable="issued">
-            <date-part name="year"/>
-          </date>
+          <date variable="issued" form="text"/>
+          <text macro="accessed-date"/>
         </group>
       </if>
       <else-if type="bill legislation" match="any">
