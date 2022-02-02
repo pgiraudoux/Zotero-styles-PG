@@ -261,6 +261,7 @@
   <macro name="author-short">
     <names variable="author">
       <name form="short" and="symbol"/>
+	  <et-al font-style="italic"/>
     </names>
   </macro>
   <macro name="issued">
