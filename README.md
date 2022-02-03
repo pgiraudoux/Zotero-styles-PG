@@ -9,3 +9,5 @@
 
 To download the file, click on it. A webpage with the code will open in your browser. Just save as... (a text file suffixed *.csl will be proposed for download).
 
+<a href="https://raw.githubusercontent.com/pgiraudoux/Zotero-styles-PG/master/vancouver-author-date-AVF.csl" download="vancouver-author-date-AVF.csl">vancouver-author-date-AVF.csl</a>
+
