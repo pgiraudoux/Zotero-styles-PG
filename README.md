@@ -10,7 +10,7 @@ Pour télécharger et installer un style, cliquez dessus. Une boite de dialogue 
 | bourgogne-franche-comte-nature.csl | Bourgogne Franche-Comté Nature (imparfaite mais sur Zotero styles)|
 | [20211102_bourgogne-franche-comte-naturev2_2.csl](https://raw.githubusercontent.com/pgiraudoux/Zotero-styles-PG/master/20211102_bourgogne-franche-comte-naturev2_2.csl) | Bourgogne Franche-Comté Nature (améliorations d'Estelle) |
 | [vancouver-author-date-AVF.csl](https://raw.githubusercontent.com/pgiraudoux/Zotero-styles-PG/master/vancouver-author-date-AVF.csl) | Bulletin de l'Académie vétérinaire de France |
-| [Parasite.csl](https://raw.githubusercontent.com/pgiraudoux/Zotero-styles-PG/master/Parasite.csl) | Parasite |
+| [parasite.csl](https://raw.githubusercontent.com/pgiraudoux/Zotero-styles-PG/master/parasite.csl) | Parasite |
 
 
 
