@@ -8,7 +8,7 @@ Pour télécharger et installer un style, cliquez dessus. Une boite de dialogue 
 | File | Style full name | Comments|
 | --- | --- |---|
 | bourgogne-franche-comte-nature.csl | Bourgogne Franche-Comté Nature |on Zotero styles but with some bugs not corrected|
-| [20211102_bourgogne-franche-comte-naturev2_2.csl](https://raw.githubusercontent.com/pgiraudoux/Zotero-styles-PG/master/20211102_bourgogne-franche-comte-naturev2_2.csl) | Bourgogne Franche-Comté Nature (améliorations d'Estelle) | |
+| [20211102_bourgogne-franche-comte-naturev2_2.csl](https://raw.githubusercontent.com/pgiraudoux/Zotero-styles-PG/master/20211102_bourgogne-franche-comte-naturev2_2.csl) | Bourgogne Franche-Comté Nature | bugs corrigés par Estelle Camisuli|
 | [vancouver-author-date-AVF.csl](https://raw.githubusercontent.com/pgiraudoux/Zotero-styles-PG/master/vancouver-author-date-AVF.csl) | Bulletin de l'Académie vétérinaire de France | |
 | [parasite.csl](https://raw.githubusercontent.com/pgiraudoux/Zotero-styles-PG/master/parasite.csl) | Parasite |In the word processor, after having generated the bibliography, select it as a numbered list to get it numbered|
 
