@@ -9,6 +9,6 @@ Pour télécharger et installer un style, cliquez dessus. Une boite de dialogue 
 | --- | --- |---|
 | bourgogne-franche-comte-nature.csl | Bourgogne Franche-Comté Nature |On Zotero styles but with some bugs not corrected|
 | [20211102_bourgogne-franche-comte-naturev2_2.csl](https://raw.githubusercontent.com/pgiraudoux/Zotero-styles-PG/master/20211102_bourgogne-franche-comte-naturev2_2.csl) | Bourgogne Franche-Comté Nature | Bugs fixed by Estelle Camisuli (please use it in priority)|
-| [vancouver-author-date-AVF-sort-years.csl](https://raw.githubusercontent.com/pgiraudoux/Zotero-styles-PG/master/vancouver-author-date-AVF-sort-years.csl) | Bulletin de l'Académie vétérinaire de France | |
+| [vancouver-author-date-AVF-sort-years.csl](https://raw.githubusercontent.com/pgiraudoux/Zotero-styles-PG/master/BAVF.csl) | Bulletin de l'Académie vétérinaire de France | |
 
 
