@@ -57,6 +57,7 @@
   <macro name="author-short">
     <names variable="author">
       <name form="short" and="text"/>
+	  <et-al font-style="italic"/>
       <substitute>
         <names variable="editor"/>
         <text variable="title" form="short"/>
