@@ -8,7 +8,7 @@ Pour télécharger et installer un style, cliquez dessus. Une boite de dialogue 
 | File | Style full name | Comments|
 | --- | --- |---|
 | bourgogne-franche-comte-nature.csl | Bourgogne Franche-Comté Nature |On Zotero styles but with some bugs not corrected|
-| [20211102_bourgogne-franche-comte-naturev2_2.csl](https://raw.githubusercontent.com/pgiraudoux/Zotero-styles-PG/master/20211102_bourgogne-franche-comte-naturev2_2.csl) | Bourgogne Franche-Comté Nature | Bugs fixed by Estelle Camisuli (please use it in priority)|
+| [20211102_bourgogne-franche-comte-naturev2_2.csl](https://raw.githubusercontent.com/pgiraudoux/Zotero-styles-PG/master/20211102_bourgogne-franche-comte-naturev2_2.csl) | Bourgogne Franche-Comté Nature | Bugs fixed by Estelle Camizuli (please use it in priority)|
 | [BAVF.csl (deprecated: BAVF uses APA 7th edition since 2026)](https://raw.githubusercontent.com/pgiraudoux/Zotero-styles-PG/master/BAVF.csl) | Bulletin de l'Académie Vétérinaire de France | The file name BAVF.csl is used for concision, but the full name "Bulletin de l'Académie Vétérinaire de France" will be displayed in the Zotero style dialog box, once installed|
 | [BAVF_en.csl (deprecated: BAVF uses APA 7th edition since 2026)](https://raw.githubusercontent.com/pgiraudoux/Zotero-styles-PG/master/BAVF_en.csl) | Bulletin de l'Académie Vétérinaire de France (english)| The file name BAVF_en.csl is used for concision, but the full name "Bulletin de l'Académie Vétérinaire de France (english)" will be displayed in the Zotero style dialog box, once installed|
 
